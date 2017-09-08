@@ -1,0 +1,18 @@
+{
+  "name": "awesass_page",
+  "version": "1.0.0",
+  "description": "An awesome page",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.7.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Zahuta",
+  "license": "ISC"
+}

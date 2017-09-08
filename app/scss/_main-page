@@ -1,0 +1,13 @@
+* {
+  margin: 0; padding: 0;
+}
+
+body {
+  font-family: $font-stack;
+  color: $primary-color;
+}
+
+.header {
+  @extend %container;
+  padding-top: 50px;
+}
